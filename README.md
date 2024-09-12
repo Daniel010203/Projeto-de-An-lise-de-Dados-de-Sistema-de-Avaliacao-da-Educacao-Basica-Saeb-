@@ -2,7 +2,9 @@
 
 ## Descrição
 
-Este repositório contém uma análise detalhada dos dados do Sistema de Avaliação da Educação Básica (Saeb), uma avaliação externa em larga escala que permite ao Inep realizar um diagnóstico da educação básica brasileira e identificar fatores que podem interferir no desempenho dos estudantes.
+Este repositório contém uma análise detalhada dos dados do Sistema de Avaliação da Educação Básica (Saeb), uma avaliação externa em larga escala que permite ao Inep realizar um diagnóstico da educação básica brasileira e identificar fatores que podem interferir no desempenho dos estudantes. 
+
+Será utlizada a ferramenta Big Query da GCP, com a linguagem SQL e a apresentação em Power BI.
 
 ## Fonte dos Dados
 
